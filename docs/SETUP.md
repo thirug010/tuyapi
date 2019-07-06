@@ -17,3 +17,5 @@
 8. A list of ID and key pairs should appear in the console.
 
 9. It's recommended to untrust the root certificate after you're done for security purposes.
+
+10. Code / feature is not fully tested, Feel free to post your feedback / comments
